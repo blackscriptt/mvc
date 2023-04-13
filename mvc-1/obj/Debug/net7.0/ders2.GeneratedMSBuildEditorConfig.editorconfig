@@ -9,73 +9,73 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ders2
 build_property.RootNamespace = ders2
-build_property.ProjectDir = C:\Users\lab5\Desktop\Sakin ELÇİÇEK\MvcDersler\ders2\
+build_property.ProjectDir = /Users/kaan/Desktop/svart web/mvc/mvc-1/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\lab5\Desktop\Sakin ELÇİÇEK\MvcDersler\ders2
+build_property.MSBuildProjectDirectory = /Users/kaan/Desktop/svart web/mvc/mvc-1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/lab5/Desktop/Sakin ELÇİÇEK/MvcDersler/ders2/Views/Home/Deneme2.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZW5lbWUyLmNzaHRtbA==
+[/Users/kaan/Desktop/svart web/mvc/mvc-1/Views/Home/Deneme2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9EZW5lbWUyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab5/Desktop/Sakin ELÇİÇEK/MvcDersler/ders2/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/kaan/Desktop/svart web/mvc/mvc-1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab5/Desktop/Sakin ELÇİÇEK/MvcDersler/ders2/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/Users/kaan/Desktop/svart web/mvc/mvc-1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab5/Desktop/Sakin ELÇİÇEK/MvcDersler/ders2/Views/Home/UrunListesi.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcnVuTGlzdGVzaS5jc2h0bWw=
+[/Users/kaan/Desktop/svart web/mvc/mvc-1/Views/Home/UrunListesi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9VcnVuTGlzdGVzaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab5/Desktop/Sakin ELÇİÇEK/MvcDersler/ders2/Views/Products/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+[/Users/kaan/Desktop/svart web/mvc/mvc-1/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab5/Desktop/Sakin ELÇİÇEK/MvcDersler/ders2/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/Users/kaan/Desktop/svart web/mvc/mvc-1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab5/Desktop/Sakin ELÇİÇEK/MvcDersler/ders2/Views/Shared/_DenemePartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EZW5lbWVQYXJ0aWFsLmNzaHRtbA==
+[/Users/kaan/Desktop/svart web/mvc/mvc-1/Views/Shared/_DenemePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19EZW5lbWVQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab5/Desktop/Sakin ELÇİÇEK/MvcDersler/ders2/Views/Shared/_FooterPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
+[/Users/kaan/Desktop/svart web/mvc/mvc-1/Views/Shared/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab5/Desktop/Sakin ELÇİÇEK/MvcDersler/ders2/Views/Shared/_HeadPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkUGFydGlhbC5jc2h0bWw=
+[/Users/kaan/Desktop/svart web/mvc/mvc-1/Views/Shared/_HeadPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19IZWFkUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab5/Desktop/Sakin ELÇİÇEK/MvcDersler/ders2/Views/Shared/_Layout2.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
+[/Users/kaan/Desktop/svart web/mvc/mvc-1/Views/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab5/Desktop/Sakin ELÇİÇEK/MvcDersler/ders2/Views/Shared/_navPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9uYXZQYXJ0aWFsLmNzaHRtbA==
+[/Users/kaan/Desktop/svart web/mvc/mvc-1/Views/Shared/_navPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19uYXZQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab5/Desktop/Sakin ELÇİÇEK/MvcDersler/ders2/Views/Shared/_ScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+[/Users/kaan/Desktop/svart web/mvc/mvc-1/Views/Shared/_ScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab5/Desktop/Sakin ELÇİÇEK/MvcDersler/ders2/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/kaan/Desktop/svart web/mvc/mvc-1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab5/Desktop/Sakin ELÇİÇEK/MvcDersler/ders2/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/kaan/Desktop/svart web/mvc/mvc-1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab5/Desktop/Sakin ELÇİÇEK/MvcDersler/ders2/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/kaan/Desktop/svart web/mvc/mvc-1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab5/Desktop/Sakin ELÇİÇEK/MvcDersler/ders2/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-3win9jalll
+[/Users/kaan/Desktop/svart web/mvc/mvc-1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bsau2ftrnx
